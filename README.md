@@ -1,6 +1,10 @@
 # Hand Cricket Game
 
-This is an Odd-Even game, also known as Hand Cricket, made purely using Java and runs in the terminal.
+## SUPPORTED ONLY FOR WINDOWS OPERATING SYSTEM
+VERSIONS : ANY WINDOWS VERSION WHICH SUPPORTS ANY VERSION OF JDK.
+
+This is an Odd-Eff game, also known as Hand Cricket, made purely using Java and runs in the terminal.
+This game is played between user and computer.
 
 ## IT IS FINALLY READY TO USE!
 
