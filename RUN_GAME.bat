@@ -1,4 +1,4 @@
 @echo off
-javac Main.java
-java Main
+javac emotionallyUnstable.java
+java emotionallyUnstable
 pause
